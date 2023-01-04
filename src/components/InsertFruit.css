@@ -1,0 +1,20 @@
+.insert {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+input {
+  height: 30px;
+  width: 200px;
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin: 10px;
+  padding-left: 10px;
+}
+.insertBtn {
+  height: 30px;
+  border: none;
+  border-radius: 15px;
+  background-color: pink;
+}

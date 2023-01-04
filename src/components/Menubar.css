@@ -1,0 +1,22 @@
+.Menubar {
+  display: flex;
+  align-items: center;
+  height: 80px;
+}
+.Menubarlogo {
+  width: 30%;
+  margin-left: 30px;
+  justify-content: start;
+  cursor: pointer;
+}
+.Menubarlogo > a {
+  text-decoration: none;
+  color: green;
+}
+.MenuList {
+  width: 70%;
+  justify-content: end;
+}
+.MenuList > a {
+  margin: 20px;
+}
